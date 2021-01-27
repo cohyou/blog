@@ -19,6 +19,8 @@ const SecondPage = () => (
       昨日の分はここまで。つづきはあと。
     </p>
     <p>
+      画像テスト<img src="../images/IMG_1505.JPG" alt="tremolo" />だめだ。
+      正しい方法は<img src="/images/hero.jpg" alt="" />
     </p>
     <p>
     </p>

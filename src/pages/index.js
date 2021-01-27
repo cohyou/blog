@@ -22,6 +22,9 @@ const IndexPage = () => (
     <Link to="/20210121/">2021-01-21 木 やばいつづき</Link> <br />
     <Link to="/20210122/">2021-01-22 金 やばいつづきつづき</Link> <br />
     <Link to="/20210123/">2021-01-23 土 肉体労働</Link> <br />
+    <Link to="/20210124/">2021-01-24 日 取り返し</Link> <br />
+    <Link to="/20210125/">2021-01-25 月 これからスタジオ</Link> <br />
+    <Link to="/20210127/">2021-01-27 水 座れました</Link> <br />
     <Link to="/using-typescript/">Go to "Using TypeScript"</Link>
   </Layout>
 )
